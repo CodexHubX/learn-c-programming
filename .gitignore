@@ -39,6 +39,10 @@ bld/
 *.tlog
 *.lastbuildstate
 *.vcxproj.user
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
 
 # Visual Studio Code
 .vscode/
